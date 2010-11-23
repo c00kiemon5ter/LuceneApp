@@ -1,0 +1,51 @@
+<documents>
+
+	<doc>
+		<docID>0</docID>
+		<title> Visual retrieval engine </title>
+		<body>Search for images by content is a challenge </body>
+	</doc>
+
+	<doc>
+		<docID>1</docID>
+		<title> Semantic retrieval</title>
+		<body> Use of semantic retrieval as a technique to retrieve images </body>
+	</doc>
+
+	<doc>
+		<docID>2</docID>
+		<title> Object Oriented Programming </title>
+		<body> C++ is a object oriented programming language </body>
+	</doc>
+
+	<doc>
+		<docID>3</docID>
+		<title> Natural Language processing </title>
+		<body>NLP and programming techniques </body>
+	</doc>
+
+	<doc>
+		<docID>4</docID>
+		<title> Language models</title>
+		<body> Semantic retrieval using the language model</body>
+	</doc>
+
+	<doc>
+		<docID>5</docID>
+		<title> Multimedia retrieval </title>
+		<body> Combined visual and semantic retrieval of images </body>
+	</doc>
+
+	<doc>
+		<docID>6</docID>
+		<title> Semantic retrieval of images </title>
+		<body> impact of semantic retrieval to image retrieval </body>
+	</doc>
+
+	<doc>
+		<docID>7</docID>
+		<title> Java </title>
+		<body> Programming tools with java </body>
+	</doc>
+
+</documents>
